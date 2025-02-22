@@ -1,0 +1,1 @@
+# pana-pona-assets
