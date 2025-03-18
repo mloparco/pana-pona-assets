@@ -1,0 +1,772 @@
+{
+    "variants": {
+        "variant=000000": {
+            "model": "block/texture_000000"
+        },
+        "variant=222323": {
+            "model": "block/texture_222323"
+        },
+        "variant=434549": {
+            "model": "block/texture_434549"
+        },
+        "variant=626871": {
+            "model": "block/texture_626871"
+        },
+        "variant=828B98": {
+            "model": "block/texture_828B98"
+        },
+        "variant=A6AEBA": {
+            "model": "block/texture_A6AEBA"
+        },
+        "variant=CDD2DA": {
+            "model": "block/texture_CDD2DA"
+        },
+        "variant=F5F7FA": {
+            "model": "block/texture_F5F7FA"
+        },
+        "variant=625D54": {
+            "model": "block/texture_625D54"
+        },
+        "variant=857565": {
+            "model": "block/texture_857565"
+        },
+        "variant=9E8C79": {
+            "model": "block/texture_9E8C79"
+        },
+        "variant=AEA189": {
+            "model": "block/texture_AEA189"
+        },
+        "variant=BBAFA4": {
+            "model": "block/texture_BBAFA4"
+        },
+        "variant=CCC3B1": {
+            "model": "block/texture_CCC3B1"
+        },
+        "variant=EADBC9": {
+            "model": "block/texture_EADBC9"
+        },
+        "variant=FFF3D6": {
+            "model": "block/texture_FFF3D6"
+        },
+        "variant=583126": {
+            "model": "block/texture_583126"
+        },
+        "variant=733D3B": {
+            "model": "block/texture_733D3B"
+        },
+        "variant=885041": {
+            "model": "block/texture_885041"
+        },
+        "variant=9A624C": {
+            "model": "block/texture_9A624C"
+        },
+        "variant=AD6E51": {
+            "model": "block/texture_AD6E51"
+        },
+        "variant=D58D6B": {
+            "model": "block/texture_D58D6B"
+        },
+        "variant=FBAA84": {
+            "model": "block/texture_FBAA84"
+        },
+        "variant=FFCE7F": {
+            "model": "block/texture_FFCE7F"
+        },
+        "variant=002735": {
+            "model": "block/texture_002735"
+        },
+        "variant=003850": {
+            "model": "block/texture_003850"
+        },
+        "variant=004D5E": {
+            "model": "block/texture_004D5E"
+        },
+        "variant=0B667F": {
+            "model": "block/texture_0B667F"
+        },
+        "variant=006F89": {
+            "model": "block/texture_006F89"
+        },
+        "variant=328CA7": {
+            "model": "block/texture_328CA7"
+        },
+        "variant=26BDE2": {
+            "model": "block/texture_26BDE2"
+        },
+        "variant=88D6FF": {
+            "model": "block/texture_88D6FF"
+        },
+        "variant=662B29": {
+            "model": "block/texture_662B29"
+        },
+        "variant=A21942": {
+            "model": "block/texture_A21942"
+        },
+        "variant=B64D46": {
+            "model": "block/texture_B64D46"
+        },
+        "variant=FF3A21": {
+            "model": "block/texture_FF3A21"
+        },
+        "variant=E37840": {
+            "model": "block/texture_E37840"
+        },
+        "variant=F99B4E": {
+            "model": "block/texture_F99B4E"
+        },
+        "variant=FFBC4E": {
+            "model": "block/texture_FFBC4E"
+        },
+        "variant=FFE949": {
+            "model": "block/texture_FFE949"
+        },
+        "variant=282B4A": {
+            "model": "block/texture_282B4A"
+        },
+        "variant=3A4568": {
+            "model": "block/texture_3A4568"
+        },
+        "variant=615F84": {
+            "model": "block/texture_615F84"
+        },
+        "variant=7A7799": {
+            "model": "block/texture_7A7799"
+        },
+        "variant=8690B2": {
+            "model": "block/texture_8690B2"
+        },
+        "variant=96B2D9": {
+            "model": "block/texture_96B2D9"
+        },
+        "variant=C7D6FF": {
+            "model": "block/texture_C7D6FF"
+        },
+        "variant=C6ECFF": {
+            "model": "block/texture_C6ECFF"
+        },
+        "variant=002219": {
+            "model": "block/texture_002219"
+        },
+        "variant=003221": {
+            "model": "block/texture_003221"
+        },
+        "variant=174A1B": {
+            "model": "block/texture_174A1B"
+        },
+        "variant=225918": {
+            "model": "block/texture_225918"
+        },
+        "variant=2F690C": {
+            "model": "block/texture_2F690C"
+        },
+        "variant=4C9F38": {
+            "model": "block/texture_4C9F38"
+        },
+        "variant=7DA42D": {
+            "model": "block/texture_7DA42D"
+        },
+        "variant=A6CC34": {
+            "model": "block/texture_A6CC34"
+        },
+        "variant=181F2F": {
+            "model": "block/texture_181F2F"
+        },
+        "variant=23324D": {
+            "model": "block/texture_23324D"
+        },
+        "variant=19486A": {
+            "model": "block/texture_19486A"
+        },
+        "variant=366B8A": {
+            "model": "block/texture_366B8A"
+        },
+        "variant=318EB8": {
+            "model": "block/texture_318EB8"
+        },
+        "variant=41B2E3": {
+            "model": "block/texture_41B2E3"
+        },
+        "variant=52D2FF": {
+            "model": "block/texture_52D2FF"
+        },
+        "variant=74F5FD": {
+            "model": "block/texture_74F5FD"
+        },
+        "variant=1A332C": {
+            "model": "block/texture_1A332C"
+        },
+        "variant=2F3F38": {
+            "model": "block/texture_2F3F38"
+        },
+        "variant=385140": {
+            "model": "block/texture_385140"
+        },
+        "variant=325C40": {
+            "model": "block/texture_325C40"
+        },
+        "variant=3F7E44": {
+            "model": "block/texture_3F7E44"
+        },
+        "variant=498960": {
+            "model": "block/texture_498960"
+        },
+        "variant=55B67D": {
+            "model": "block/texture_55B67D"
+        },
+        "variant=91DAA1": {
+            "model": "block/texture_91DAA1"
+        },
+        "variant=5E0711": {
+            "model": "block/texture_5E0711"
+        },
+        "variant=82211D": {
+            "model": "block/texture_82211D"
+        },
+        "variant=E5243B": {
+            "model": "block/texture_E5243B"
+        },
+        "variant=E45C5F": {
+            "model": "block/texture_E45C5F"
+        },
+        "variant=FF7676": {
+            "model": "block/texture_FF7676"
+        },
+        "variant=FF9BA8": {
+            "model": "block/texture_FF9BA8"
+        },
+        "variant=FFBBC7": {
+            "model": "block/texture_FFBBC7"
+        },
+        "variant=FFDBFF": {
+            "model": "block/texture_FFDBFF"
+        },
+        "variant=2D3136": {
+            "model": "block/texture_2D3136"
+        },
+        "variant=48474D": {
+            "model": "block/texture_48474D"
+        },
+        "variant=5B5C69": {
+            "model": "block/texture_5B5C69"
+        },
+        "variant=73737F": {
+            "model": "block/texture_73737F"
+        },
+        "variant=848795": {
+            "model": "block/texture_848795"
+        },
+        "variant=ABAEBE": {
+            "model": "block/texture_ABAEBE"
+        },
+        "variant=BAC7DB": {
+            "model": "block/texture_BAC7DB"
+        },
+        "variant=EBF0F6": {
+            "model": "block/texture_EBF0F6"
+        },
+        "variant=3B303C": {
+            "model": "block/texture_3B303C"
+        },
+        "variant=5A3C45": {
+            "model": "block/texture_5A3C45"
+        },
+        "variant=8A5258": {
+            "model": "block/texture_8A5258"
+        },
+        "variant=AE6B60": {
+            "model": "block/texture_AE6B60"
+        },
+        "variant=C7826C": {
+            "model": "block/texture_C7826C"
+        },
+        "variant=D89F75": {
+            "model": "block/texture_D89F75"
+        },
+        "variant=ECC581": {
+            "model": "block/texture_ECC581"
+        },
+        "variant=FFFAAB": {
+            "model": "block/texture_FFFAAB"
+        },
+        "variant=31222A": {
+            "model": "block/texture_31222A"
+        },
+        "variant=4A353C": {
+            "model": "block/texture_4A353C"
+        },
+        "variant=5E4646": {
+            "model": "block/texture_5E4646"
+        },
+        "variant=725A51": {
+            "model": "block/texture_725A51"
+        },
+        "variant=7E6C54": {
+            "model": "block/texture_7E6C54"
+        },
+        "variant=9E8A6E": {
+            "model": "block/texture_9E8A6E"
+        },
+        "variant=C0A588": {
+            "model": "block/texture_C0A588"
+        },
+        "variant=DDBF9A": {
+            "model": "block/texture_DDBF9A"
+        },
+        "variant=2E1026": {
+            "model": "block/texture_2E1026"
+        },
+        "variant=49283D": {
+            "model": "block/texture_49283D"
+        },
+        "variant=663659": {
+            "model": "block/texture_663659"
+        },
+        "variant=975475": {
+            "model": "block/texture_975475"
+        },
+        "variant=B96D91": {
+            "model": "block/texture_B96D91"
+        },
+        "variant=C178AA": {
+            "model": "block/texture_C178AA"
+        },
+        "variant=DB99BF": {
+            "model": "block/texture_DB99BF"
+        },
+        "variant=F8C6DA": {
+            "model": "block/texture_F8C6DA"
+        },
+        "variant=002E49": {
+            "model": "block/texture_002E49"
+        },
+        "variant=004051": {
+            "model": "block/texture_004051"
+        },
+        "variant=005162": {
+            "model": "block/texture_005162"
+        },
+        "variant=006B6D": {
+            "model": "block/texture_006B6D"
+        },
+        "variant=008279": {
+            "model": "block/texture_008279"
+        },
+        "variant=00A087": {
+            "model": "block/texture_00A087"
+        },
+        "variant=00BFA3": {
+            "model": "block/texture_00BFA3"
+        },
+        "variant=00DEDA": {
+            "model": "block/texture_00DEDA"
+        },
+        "variant=453125": {
+            "model": "block/texture_453125"
+        },
+        "variant=614A3C": {
+            "model": "block/texture_614A3C"
+        },
+        "variant=7E6144": {
+            "model": "block/texture_7E6144"
+        },
+        "variant=997951": {
+            "model": "block/texture_997951"
+        },
+        "variant=B29062": {
+            "model": "block/texture_B29062"
+        },
+        "variant=CCA96E": {
+            "model": "block/texture_CCA96E"
+        },
+        "variant=E8CB82": {
+            "model": "block/texture_E8CB82"
+        },
+        "variant=FBEEA3": {
+            "model": "block/texture_FBEEA3"
+        },
+        "variant=5F0926": {
+            "model": "block/texture_5F0926"
+        },
+        "variant=6E2434": {
+            "model": "block/texture_6E2434"
+        },
+        "variant=904647": {
+            "model": "block/texture_904647"
+        },
+        "variant=A76057": {
+            "model": "block/texture_A76057"
+        },
+        "variant=BD7D64": {
+            "model": "block/texture_BD7D64"
+        },
+        "variant=CE9770": {
+            "model": "block/texture_CE9770"
+        },
+        "variant=EDB67C": {
+            "model": "block/texture_EDB67C"
+        },
+        "variant=EDD493": {
+            "model": "block/texture_EDD493"
+        },
+        "variant=323558": {
+            "model": "block/texture_323558"
+        },
+        "variant=4A5280": {
+            "model": "block/texture_4A5280"
+        },
+        "variant=64659D": {
+            "model": "block/texture_64659D"
+        },
+        "variant=7877C1": {
+            "model": "block/texture_7877C1"
+        },
+        "variant=8E8CE2": {
+            "model": "block/texture_8E8CE2"
+        },
+        "variant=9C9BEF": {
+            "model": "block/texture_9C9BEF"
+        },
+        "variant=B8AEFF": {
+            "model": "block/texture_B8AEFF"
+        },
+        "variant=DCD4FF": {
+            "model": "block/texture_DCD4FF"
+        },
+        "variant=431729": {
+            "model": "block/texture_431729"
+        },
+        "variant=712B3B": {
+            "model": "block/texture_712B3B"
+        },
+        "variant=9F3B52": {
+            "model": "block/texture_9F3B52"
+        },
+        "variant=DD1367": {
+            "model": "block/texture_DD1367"
+        },
+        "variant=F85D80": {
+            "model": "block/texture_F85D80"
+        },
+        "variant=FF7DAF": {
+            "model": "block/texture_FF7DAF"
+        },
+        "variant=FFA6C5": {
+            "model": "block/texture_FFA6C5"
+        },
+        "variant=FFCDFF": {
+            "model": "block/texture_FFCDFF"
+        },
+        "variant=49251C": {
+            "model": "block/texture_49251C"
+        },
+        "variant=633432": {
+            "model": "block/texture_633432"
+        },
+        "variant=7C4B47": {
+            "model": "block/texture_7C4B47"
+        },
+        "variant=98595A": {
+            "model": "block/texture_98595A"
+        },
+        "variant=AC6F6E": {
+            "model": "block/texture_AC6F6E"
+        },
+        "variant=C17E7A": {
+            "model": "block/texture_C17E7A"
+        },
+        "variant=D28D7A": {
+            "model": "block/texture_D28D7A"
+        },
+        "variant=E59A7C": {
+            "model": "block/texture_E59A7C"
+        },
+        "variant=202900": {
+            "model": "block/texture_202900"
+        },
+        "variant=2F4F08": {
+            "model": "block/texture_2F4F08"
+        },
+        "variant=495D00": {
+            "model": "block/texture_495D00"
+        },
+        "variant=617308": {
+            "model": "block/texture_617308"
+        },
+        "variant=7C831E": {
+            "model": "block/texture_7C831E"
+        },
+        "variant=969A26": {
+            "model": "block/texture_969A26"
+        },
+        "variant=B4AA33": {
+            "model": "block/texture_B4AA33"
+        },
+        "variant=D0CC32": {
+            "model": "block/texture_D0CC32"
+        },
+        "variant=622A00": {
+            "model": "block/texture_622A00"
+        },
+        "variant=753B09": {
+            "model": "block/texture_753B09"
+        },
+        "variant=854F12": {
+            "model": "block/texture_854F12"
+        },
+        "variant=9E6520": {
+            "model": "block/texture_9E6520"
+        },
+        "variant=BF8B2E": {
+            "model": "block/texture_BF8B2E"
+        },
+        "variant=DDA63A": {
+            "model": "block/texture_DDA63A"
+        },
+        "variant=E8D24B": {
+            "model": "block/texture_E8D24B"
+        },
+        "variant=FFF64F": {
+            "model": "block/texture_FFF64F"
+        },
+        "variant=26233D": {
+            "model": "block/texture_26233D"
+        },
+        "variant=3B3855": {
+            "model": "block/texture_3B3855"
+        },
+        "variant=56506F": {
+            "model": "block/texture_56506F"
+        },
+        "variant=75686E": {
+            "model": "block/texture_75686E"
+        },
+        "variant=917A7B": {
+            "model": "block/texture_917A7B"
+        },
+        "variant=B39783": {
+            "model": "block/texture_B39783"
+        },
+        "variant=CFAF8E": {
+            "model": "block/texture_CFAF8E"
+        },
+        "variant=FEDFB1": {
+            "model": "block/texture_FEDFB1"
+        },
+        "variant=1D2C43": {
+            "model": "block/texture_1D2C43"
+        },
+        "variant=2E3D47": {
+            "model": "block/texture_2E3D47"
+        },
+        "variant=394D3C": {
+            "model": "block/texture_394D3C"
+        },
+        "variant=4C5F33": {
+            "model": "block/texture_4C5F33"
+        },
+        "variant=58712C": {
+            "model": "block/texture_58712C"
+        },
+        "variant=6B842D": {
+            "model": "block/texture_6B842D"
+        },
+        "variant=789E24": {
+            "model": "block/texture_789E24"
+        },
+        "variant=56C02B": {
+            "model": "block/texture_56C02B"
+        },
+        "variant=372423": {
+            "model": "block/texture_372423"
+        },
+        "variant=53393A": {
+            "model": "block/texture_53393A"
+        },
+        "variant=784C49": {
+            "model": "block/texture_784C49"
+        },
+        "variant=945D4F": {
+            "model": "block/texture_945D4F"
+        },
+        "variant=A96D58": {
+            "model": "block/texture_A96D58"
+        },
+        "variant=BF7E63": {
+            "model": "block/texture_BF7E63"
+        },
+        "variant=D79374": {
+            "model": "block/texture_D79374"
+        },
+        "variant=F4A380": {
+            "model": "block/texture_F4A380"
+        },
+        "variant=2D4B47": {
+            "model": "block/texture_2D4B47"
+        },
+        "variant=47655A": {
+            "model": "block/texture_47655A"
+        },
+        "variant=5B7B69": {
+            "model": "block/texture_5B7B69"
+        },
+        "variant=71957D": {
+            "model": "block/texture_71957D"
+        },
+        "variant=87AE8E": {
+            "model": "block/texture_87AE8E"
+        },
+        "variant=8AC196": {
+            "model": "block/texture_8AC196"
+        },
+        "variant=A9D1C1": {
+            "model": "block/texture_A9D1C1"
+        },
+        "variant=E0FAEB": {
+            "model": "block/texture_E0FAEB"
+        },
+        "variant=001B40": {
+            "model": "block/texture_001B40"
+        },
+        "variant=03315F": {
+            "model": "block/texture_03315F"
+        },
+        "variant=07487C": {
+            "model": "block/texture_07487C"
+        },
+        "variant=00689D": {
+            "model": "block/texture_00689D"
+        },
+        "variant=0A97D9": {
+            "model": "block/texture_0A97D9"
+        },
+        "variant=4097EA": {
+            "model": "block/texture_4097EA"
+        },
+        "variant=55B1F1": {
+            "model": "block/texture_55B1F1"
+        },
+        "variant=6DCCFF": {
+            "model": "block/texture_6DCCFF"
+        },
+        "variant=554769": {
+            "model": "block/texture_554769"
+        },
+        "variant=765D73": {
+            "model": "block/texture_765D73"
+        },
+        "variant=977488": {
+            "model": "block/texture_977488"
+        },
+        "variant=B98C93": {
+            "model": "block/texture_B98C93"
+        },
+        "variant=D5A39A": {
+            "model": "block/texture_D5A39A"
+        },
+        "variant=EBBD9D": {
+            "model": "block/texture_EBBD9D"
+        },
+        "variant=FFD59B": {
+            "model": "block/texture_FFD59B"
+        },
+        "variant=FDF786": {
+            "model": "block/texture_FDF786"
+        },
+        "variant=1D1D21": {
+            "model": "block/texture_1D1D21"
+        },
+        "variant=3C3151": {
+            "model": "block/texture_3C3151"
+        },
+        "variant=584A7F": {
+            "model": "block/texture_584A7F"
+        },
+        "variant=7964BA": {
+            "model": "block/texture_7964BA"
+        },
+        "variant=9585F1": {
+            "model": "block/texture_9585F1"
+        },
+        "variant=A996EC": {
+            "model": "block/texture_A996EC"
+        },
+        "variant=BAABF7": {
+            "model": "block/texture_BAABF7"
+        },
+        "variant=D1BDFE": {
+            "model": "block/texture_D1BDFE"
+        },
+        "variant=262450": {
+            "model": "block/texture_262450"
+        },
+        "variant=28335D": {
+            "model": "block/texture_28335D"
+        },
+        "variant=2D3D72": {
+            "model": "block/texture_2D3D72"
+        },
+        "variant=3D5083": {
+            "model": "block/texture_3D5083"
+        },
+        "variant=5165AE": {
+            "model": "block/texture_5165AE"
+        },
+        "variant=5274C5": {
+            "model": "block/texture_5274C5"
+        },
+        "variant=6C82C4": {
+            "model": "block/texture_6C82C4"
+        },
+        "variant=8393C3": {
+            "model": "block/texture_8393C3"
+        },
+        "variant=492129": {
+            "model": "block/texture_492129"
+        },
+        "variant=5E414A": {
+            "model": "block/texture_5E414A"
+        },
+        "variant=77535B": {
+            "model": "block/texture_77535B"
+        },
+        "variant=91606A": {
+            "model": "block/texture_91606A"
+        },
+        "variant=AD7984": {
+            "model": "block/texture_AD7984"
+        },
+        "variant=B58B94": {
+            "model": "block/texture_B58B94"
+        },
+        "variant=D4AEAA": {
+            "model": "block/texture_D4AEAA"
+        },
+        "variant=FFE2CF": {
+            "model": "block/texture_FFE2CF"
+        },
+        "variant=721C03": {
+            "model": "block/texture_721C03"
+        },
+        "variant=C5192D": {
+            "model": "block/texture_C5192D"
+        },
+        "variant=BF5A3E": {
+            "model": "block/texture_BF5A3E"
+        },
+        "variant=FD6925": {
+            "model": "block/texture_FD6925"
+        },
+        "variant=FD9D24": {
+            "model": "block/texture_FD9D24"
+        },
+        "variant=FCC30B": {
+            "model": "block/texture_FCC30B"
+        },
+        "variant=FFF02B": {
+            "model": "block/texture_FFF02B"
+        },
+        "variant=F7F4BF": {
+            "model": "block/texture_F7F4BF"
+        }
+    }
+}
