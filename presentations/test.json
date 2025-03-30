@@ -2,7 +2,7 @@
     {
         "id": "slide1",
         "title": "Welcome Slide",
-        "duration": 5000,
+        "duration": 1000,
         "screens": {
             "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_icons.png",
             "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_icons.png",
@@ -12,8 +12,8 @@
     },
     {
         "id": "slide2",
-        "title": "Welcome Slide",
-        "duration": 5000,
+        "title": "Second Slide",
+        "duration": 1000,
         "screens": {
             "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_photo.png",
             "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_photo.png",
@@ -23,8 +23,8 @@
     },
     {
         "id": "slide3",
-        "title": "Second Slide",
-        "duration": 5000,
+        "title": "Third Slide",
+        "duration": 1000,
         "screens": {
             "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pakala_icons.png",
             "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pakala_icons.png",
@@ -34,8 +34,8 @@
     },
     {
         "id": "slide4",
-        "title": "Second Slide",
-        "duration": 5000,
+        "title": "Last Slide",
+        "duration": 1000,
         "screens": {
             "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pakala_photo.png",
             "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pakala_photo.png",
@@ -43,5 +43,4 @@
             "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pakala_photo.png"
         }
     }
-
 ]
