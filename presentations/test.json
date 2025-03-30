@@ -1,0 +1,20 @@
+[
+  {
+    "id": "slide1",
+    "title": "Welcome Slide",
+    "duration": 5000,
+    "screens": {
+      "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_icons.png",
+      "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_icons.png"
+    }
+  },
+  {
+    "id": "slide2",
+    "title": "Second Slide",
+    "duration": 5000,
+    "screens": {
+      "JN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pakala_icons.png",
+      "JW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pakala_icons.png"
+    }
+  }
+]
