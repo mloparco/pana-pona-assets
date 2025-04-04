@@ -4,10 +4,14 @@
         "title": "Welcome Slide",
         "duration": 1000,
         "screens": {
-            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_icons.png",
-            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_icons.png",
-            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_icons.png",
-            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_icons.png"
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_photo.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_photo.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_photo.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_01_pona_photo.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_all_01.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_all_01.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_all_01.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/screen_sdg_all_01.png"
         }
     },
     {
