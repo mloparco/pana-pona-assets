@@ -1,0 +1,36 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Custom Pana Pona resource pack",
+        "name": "Pana Pona Resource Pack",
+        "uuid": "28a11b14-9775-4762-866c-344f62302a76",
+        "version": [
+            0,
+            0,
+            7
+        ],
+        "min_engine_version": [
+            1,
+            17,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Custom Pana Pona resource pack",
+            "type": "resources",
+            "uuid": "88ef0e8b-950e-443c-ae0b-503488f00af0",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "dependencies": [
+      {
+        "uuid": "28a11b14-9775-4762-866c-344f62302a76",
+        "version": [0, 0, 7]
+      }
+    ]
+}

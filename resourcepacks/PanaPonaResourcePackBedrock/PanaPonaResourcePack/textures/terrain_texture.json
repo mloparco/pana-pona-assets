@@ -1,0 +1,168 @@
+{
+  "resource_pack_name": "PanaPonaResourcePack",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "black_concrete": {
+      "textures": "textures/blocks/concrete_black"
+    },
+    "black_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_black"
+    },
+    "black_wool": {
+      "textures": "textures/blocks/wool_black"
+    },
+    "blue_concrete": {
+      "textures": "textures/blocks/concrete_blue"
+    },
+    "blue_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_blue"
+    },
+    "blue_wool": {
+      "textures": "textures/blocks/wool_blue"
+    },
+    "brown_concrete": {
+      "textures": "textures/blocks/concrete_brown"
+    },
+    "brown_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_brown"
+    },
+    "brown_wool": {
+      "textures": "textures/blocks/wool_brown"
+    },
+    "cyan_concrete": {
+      "textures": "textures/blocks/concrete_cyan"
+    },
+    "cyan_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_cyan"
+    },
+    "cyan_wool": {
+      "textures": "textures/blocks/wool_cyan"
+    },
+    "deepslate_emerald_ore": {
+      "textures": "textures/blocks/deepslate_emerald_ore"
+    },
+    "deepslate_gold_ore": {
+      "textures": "textures/blocks/deepslate_gold_ore"
+    },
+    "deepslate_iron_ore": {
+      "textures": "textures/blocks/deepslate_iron_ore"
+    },
+    "emerald_block": {
+      "textures": "textures/blocks/emerald_block"
+    },
+    "emerald_ore": {
+      "textures": "textures/blocks/emerald_ore"
+    },
+    "gold_block": {
+      "textures": "textures/blocks/gold_block"
+    },
+    "gold_ore": {
+      "textures": "textures/blocks/gold_ore"
+    },
+    "gray_concrete": {
+      "textures": "textures/blocks/concrete_gray"
+    },
+    "gray_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_gray"
+    },
+    "gray_wool": {
+      "textures": "textures/blocks/wool_gray"
+    },
+    "green_concrete": {
+      "textures": "textures/blocks/concrete_green"
+    },
+    "green_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_green"
+    },
+    "green_wool": {
+      "textures": "textures/blocks/wool_green"
+    },
+    "iron_block": {
+      "textures": "textures/blocks/iron_block"
+    },
+    "iron_ore": {
+      "textures": "textures/blocks/iron_ore"
+    },
+    "light_blue_concrete": {
+      "textures": "textures/blocks/concrete_light_blue"
+    },
+    "light_blue_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_light_blue"
+    },
+    "light_blue_wool": {
+      "textures": "textures/blocks/wool_light_blue"
+    },
+    "lime_concrete": {
+      "textures": "textures/blocks/concrete_lime"
+    },
+    "lime_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_lime"
+    },
+    "lime_wool": {
+      "textures": "textures/blocks/wool_lime"
+    },
+    "magenta_concrete": {
+      "textures": "textures/blocks/concrete_magenta"
+    },
+    "magenta_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_magenta"
+    },
+    "magenta_wool": {
+      "textures": "textures/blocks/wool_magenta"
+    },
+    "orange_concrete": {
+      "textures": "textures/blocks/concrete_orange"
+    },
+    "orange_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_orange"
+    },
+    "orange_wool": {
+      "textures": "textures/blocks/wool_orange"
+    },
+    "pink_concrete": {
+      "textures": "textures/blocks/concrete_pink"
+    },
+    "pink_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_pink"
+    },
+    "pink_wool": {
+      "textures": "textures/blocks/wool_pink"
+    },
+    "purple_concrete": {
+      "textures": "textures/blocks/concrete_purple"
+    },
+    "purple_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_purple"
+    },
+    "purple_wool": {
+      "textures": "textures/blocks/wool_purple"
+    },
+    "red_concrete": {
+      "textures": "textures/blocks/concrete_red"
+    },
+    "red_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_red"
+    },
+    "red_wool": {
+      "textures": "textures/blocks/wool_red"
+    },
+    "white_concrete": {
+      "textures": "textures/blocks/concrete_white"
+    },
+    "white_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_white"
+    },
+    "white_wool": {
+      "textures": "textures/blocks/wool_white"
+    },
+    "yellow_concrete": {
+      "textures": "textures/blocks/concrete_yellow"
+    },
+    "yellow_glazed_terracotta": {
+      "textures": "textures/blocks/glazed_terracotta_yellow"
+    },
+    "yellow_wool": {
+      "textures": "textures/blocks/wool_yellow"
+    }
+  }
+}
