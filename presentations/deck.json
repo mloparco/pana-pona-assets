@@ -22,7 +22,11 @@
             "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_02.png",
             "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_02.png",
             "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_02.png",
-            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_02.png"
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_02.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_02.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_02.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_02.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_02.png"
         }
     },
     {
@@ -33,7 +37,11 @@
             "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_03.png",
             "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_03.png",
             "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_03.png",
-            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_03.png"
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_03.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_03.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_03.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_03.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_03.png"
         }
     },
     {
@@ -44,7 +52,251 @@
             "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_04.png",
             "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_04.png",
             "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_04.png",
-            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_04.png"
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_04.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_04.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_04.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_04.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_04.png"
+        }
+    },
+    {
+        "id": "slide5",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_05.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_05.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_05.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_05.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_05.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_05.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_05.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_05.png"
+        }
+    },
+    {
+        "id": "slide6",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_06.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_06.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_06.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_06.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_06.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_06.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_06.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_06.png"
+        }
+    },
+    {
+        "id": "slide7",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_07.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_07.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_07.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_07.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_07.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_07.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_07.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_07.png"
+        }
+    },
+    {
+        "id": "slide8",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_08.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_08.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_08.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_08.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_08.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_08.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_08.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_08.png"
+        }
+    },
+    {
+        "id": "slide9",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_09.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_09.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_09.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_09.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_09.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_09.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_09.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_09.png"
+        }
+    },
+    {
+        "id": "slide10",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_10.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_10.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_10.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_10.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_10.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_10.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_10.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_10.png"
+        }
+    },
+    {
+        "id": "slide11",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_11.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_11.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_11.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_11.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_11.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_11.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_11.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_11.png"
+        }
+    },
+    {
+        "id": "slide12",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_12.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_12.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_12.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_12.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_12.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_12.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_12.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_12.png"
+        }
+    },
+    {
+        "id": "slide13",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_13.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_13.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_13.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_13.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_13.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_13.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_13.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_13.png"
+        }
+    },
+    {
+        "id": "slide14",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_14.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_14.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_14.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_14.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_14.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_14.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_14.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_14.png"
+        }
+    },
+    {
+        "id": "slide15",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_15.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_15.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_15.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_15.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_15.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_15.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_15.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_15.png"
+        }
+    },
+    {
+        "id": "slide16",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_16.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_16.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_16.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_16.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_16.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_16.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_16.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_16.png"
+        }
+    },
+    {
+        "id": "slide17",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_17.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_17.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_17.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_17.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_17.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_17.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_17.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_17.png"
+        }
+    },
+    {
+        "id": "slide18",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_18.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_18.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_18.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_18.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_18.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_18.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_18.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_18.png"
+        }
+    },
+    {
+        "id": "slide19",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_19.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_19.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_19.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_19.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_19.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_19.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_19.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_19.png"
+        }
+    },
+    {
+        "id": "slide20",
+        "title": "Last Slide",
+        "duration": 1000,
+        "screens": {
+            "N": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_20.png",
+            "E": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_20.png",
+            "S": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_20.png",
+            "W": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_20.png",
+            "PN": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_20.png",
+            "PE": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_20.png",
+            "PS": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_20.png",
+            "PW": "https://raw.githubusercontent.com/mloparco/pana-pona-assets/main/screens/deck/the_deck_10_islands_Page_20.png"
         }
     }
 ]
